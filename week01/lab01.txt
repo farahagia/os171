@@ -21,3 +21,4 @@ drwxr-xr-x  2 farah.agia StafCS 4096 Feb 16 10:09 week11
 drwxr-xr-x  2 farah.agia StafCS 4096 Feb 16 10:09 xtra
 /home/fasilkom/mahasiswa/f/farah.agia/os171/week01
 Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is 16 Feb 2017 at 19:40:44
