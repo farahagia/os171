@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 farah.agia StafCS 4096 Feb 16 10:28 .
+drwx--x--x  3 farah.agia StafCS 4096 Feb 16 10:22 ..
+drwxr-xr-x  8 farah.agia StafCS 4096 Feb 16 10:25 .git
+drwxr-xr-x  2 farah.agia StafCS 4096 Feb 16 10:09 key
+-rw-r--r--  1 farah.agia StafCS    0 Feb 16 10:29 lab01.txt
+drwxr-xr-x  2 farah.agia StafCS 4096 Feb 16 10:09 log
+-rw-r--r--  1 farah.agia StafCS    7 Feb 16 10:02 README.md
+drwxr-xr-x  2 farah.agia StafCS 4096 Feb 16 10:15 sandbox
+drwxr-xr-x  2 farah.agia StafCS 4096 Feb 16 10:22 week00
+drwxr-xr-x  2 farah.agia StafCS 4096 Feb 16 10:07 week01
+drwxr-xr-x  2 farah.agia StafCS 4096 Feb 16 10:07 week02
+drwxr-xr-x  2 farah.agia StafCS 4096 Feb 16 10:07 week03
+drwxr-xr-x  2 farah.agia StafCS 4096 Feb 16 10:07 week04
+drwxr-xr-x  2 farah.agia StafCS 4096 Feb 16 10:08 week05
+drwxr-xr-x  2 farah.agia StafCS 4096 Feb 16 10:08 week06week07
+drwxr-xr-x  2 farah.agia StafCS 4096 Feb 16 10:08 week08
+drwxr-xr-x  2 farah.agia StafCS 4096 Feb 16 10:08 week09
+drwxr-xr-x  2 farah.agia StafCS 4096 Feb 16 10:09 week10
+drwxr-xr-x  2 farah.agia StafCS 4096 Feb 16 10:09 week11
+drwxr-xr-x  2 farah.agia StafCS 4096 Feb 16 10:09 xtra
+/home/fasilkom/mahasiswa/f/farah.agia/os171/week01
