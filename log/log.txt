@@ -20,3 +20,8 @@ w02-170207-13-LR-About: Introduction to Operating System, From: Lecturer
 w02-170207-14-LR-About: Introduction to Operating System, From: Lecturer
 w02-170207-14-LR-About: Introduction to Operating System, From: Lecturer
 w02-170207-13-LR-About: Introduction to Operating System, From: Lecturer
+
+w04-170207-13-LR-About: Pointer, From: Lecturer
+w04-170207-14-LR-About: Pointer, From: Lecturer
+w04-170207-14-LR-About: I/O, From: Lecturer
+w04-170207-13-LR-About: I/O, From: Lecturer
