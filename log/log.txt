@@ -25,3 +25,16 @@ w04-170207-13-LR-About: Pointer, From: Lecturer
 w04-170207-14-LR-About: Pointer, From: Lecturer
 w04-170207-14-LR-About: I/O, From: Lecturer
 w04-170207-13-LR-About: I/O, From: Lecturer
+
+w06-170407-13.00-LR-About: PID, PPID, fork
+w06-170407-13.30-LR-About: PID, PPID, fork
+w06-170407-14.00-LR-About: PID, PPID, fork
+w06-170407-14.30-LR-About: PID, PPID, fork
+w06-170411-13.00-LR-About: -
+w06-170413-13.00-LR-About: Synchronization
+w06-170413-13.30-LR-About: Synchronization
+w06-170413-14.00-LR-About: Synchronization
+w06-170413-14.30-LR-About: Synchronization
+w06-170415-11.00-PS-About lab week06
+w06-170415-11.30-PS-About lab week06
+w06-170415.12.00-PS-About lab week06
