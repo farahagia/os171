@@ -38,3 +38,11 @@ w06-170413-14.30-LR-About: Synchronization
 w06-170415-11.00-PS-About lab week06
 w06-170415-11.30-PS-About lab week06
 w06-170415.12.00-PS-About lab week06
+
+w07-170420-13.00-LR-About: 
+w07-170420-13.30-LR-About: Scheduling
+w07-170420-14.00-LR-About: Scheduling
+w07-170420.30-LR-About: Scheduling
+w07-170422-14.00-PS-About lab week07
+w07-170422-14.30-PS-About lab week07
+w07-170422.15.00-PS-About lab week07
